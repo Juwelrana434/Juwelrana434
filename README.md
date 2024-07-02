@@ -30,12 +30,12 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p><br/>
 ## :eyes: Current overview
-<div align="left">
+<!-- <div align="left">
 <a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
-</div>
-### 🔭 I’m learning - In Programming Hero. 
-### 🌱 I’m exploring - Web Development. 
-### 👯 I’m looking - Job/intern. 
+</div> -->
+### 🔭 I’m learning - In Programming Hero. <br/>
+### 🌱 I’m exploring - Web Development. <br/>
+### 👯 I’m looking - Job/intern. <br/>
 ### 🤔 I’m trying - To help people learn web development. 
 
 <br />
