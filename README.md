@@ -1,8 +1,8 @@
 ![Roles-and-Responsibilities-of-Reactjs-Developer](https://github.com/Juwelrana434/Juwelrana434/assets/155098084/06cf342a-32c4-4feb-ac49-3c90b2a9b44c)
 
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Atik</h1>  
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Juwel</h1>  
 <h3 align="center">A passionate Software Engineer from 🇧🇩</h3>  
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilahmedatik&" alt="shakilahmedatik" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Juwelrana434&" alt="Juwel" /></p>
 ## :chart_with_upwards_trend: Current Stats
 <br />
 
