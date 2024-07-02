@@ -1,15 +1,9 @@
 ![Roles-and-Responsibilities-of-Reactjs-Developer](https://github.com/Juwelrana434/Juwelrana434/assets/155098084/06cf342a-32c4-4feb-ac49-3c90b2a9b44c)
-<!-- ![I am a Junior Front-end developer. ](https://github.com/mir-hussain/mir-hussain/blob/main/images/githubcover.png) -->
-<a href="https://www.facebook.com/mirhussainmurtaza/">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/githubcover.png" />
-<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
-</a>
+
 
 ## :chart_with_upwards_trend: Current Stats
 <br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
+
 ## :mailbox: Reach me out
 <br />
 [<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
