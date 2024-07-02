@@ -6,7 +6,7 @@
 
 ## :mailbox: Reach me out
 <br />
-[<p align="center"><img height="75" src="https://www.linkedin.com/in/mirhussainmurtaza/images/icons/Linkedin.png">]
+<p align="center"><img height="75" src="https://www.linkedin.com/in/mirhussainmurtaza/images/icons/Linkedin.png">
 <br />
 ## :computer: Technologies that I know
 <br>
