@@ -6,7 +6,7 @@
 
 ## :mailbox: Reach me out
 <br />
-[<p align="center"> <img src="https://www.linkedin.com/in/md-juwel-rana-a86781294"/></p>]
+[<p align="center"> <img src="https://linkedin.com/in/md-juwel-rana-a86781294"/></p>]
 <br />
 ## :computer: Technologies that I know
 <br>
