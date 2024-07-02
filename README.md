@@ -6,7 +6,7 @@
 
 ## :mailbox: Reach me out
 <br />
-<p align="center"><a href="www.linkedin.com/in/md-juwel-rana-a86781294"><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
+<p align="center"><a href="https://www.linkedin.com/in/md-juwel-rana-a86781294"><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
 <br />
   
 ## :computer: Technologies that I know
